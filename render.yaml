@@ -7,10 +7,10 @@ services:
     plan: free
     envVars:
       - key: APP_ID
-        sync: false
+        sync: 23331424
       - key: API_HASH
-        sync: false
+        sync: b2e5eb3776d0694840449886bcf54154
       - key: BOT_TOKEN
-        sync: false
+        sync:    7513839327:AAF7QfER0Cf1pgZvYnUbDM0X9epyQoxYxnA
       - key: OWNER_ID
-        sync: false
+        sync: 5993604538
