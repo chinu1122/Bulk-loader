@@ -11,6 +11,6 @@ services:
       - key: API_HASH
         sync: b2e5eb3776d0694840449886bcf54154
       - key: BOT_TOKEN
-        sync:    7513839327:AAF7QfER0Cf1pgZvYnUbDM0X9epyQoxYxnA
+        sync: 7513839327:AAF7QfER0Cf1pgZvYnUbDM0X9epyQoxYxnA
       - key: OWNER_ID
         sync: 5993604538
